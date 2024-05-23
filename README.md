@@ -1,1 +1,1 @@
-Version control with GIT!
+Complete ruby on rails dev
